@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home | RASHTER Website</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body><header><div class="container nav"><a class="brand" href="index.html">RASHTER WEBSITE</a><nav><a class="active" href="index.html">Home</a><a class="" href="about.html">About Us</a><a class="" href="contact.html">Contact</a><a class="" href="careers.html">Careers</a><a class="" href="legal.html">Legal</a><a class="" href="business-broadband.html">Business Broadband</a></nav></div></header>
+<main class="container">
+<section class="hero">
+ <div><span class="eyebrow">Play • Create • Connect</span><h1>Gear up for your next level.</h1>
+ <p>Discover ten must-know electronic gadgets for gaming, entertainment, productivity, and everyday life. Browse the collection, enjoy the new gadget-style background, and tap any product to learn more.</p>
+ <a class="btn" href="#top-gadgets">Explore Top 10</a><a class="btn secondary" href="about.html">Our Story</a></div>
+ <div class="hero-art" aria-label="Gaming and technology illustration"></div>
+</section>
+<div class="section-head" id="top-gadgets"><div><span class="eyebrow">The collection</span><h2>Top 10 Electronic Gadgets</h2><p>Choose a gadget to view its details and buying tips.</p></div></div>
+<section class="product-grid"><a class="product-card" href="smart-tv.html">
+    <img src="images/smart-tv.png" alt="Smart TV">
+    <div class="card-body"><span class="number">TOP 1</span><h3>Smart TV</h3><p>Your home entertainment, upgraded.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="gaming-consoles.html">
+    <img src="images/gaming-consoles.png" alt="Gaming Consoles">
+    <div class="card-body"><span class="number">TOP 2</span><h3>Gaming Consoles</h3><p>Play your way. Anywhere.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="bluetooth-speaker.html">
+    <img src="images/bluetooth-speaker.png" alt="Bluetooth Speaker">
+    <div class="card-body"><span class="number">TOP 3</span><h3>Bluetooth Speaker</h3><p>Big sound. Portable freedom.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="power-bank.html">
+    <img src="images/power-bank.png" alt="Power Bank">
+    <div class="card-body"><span class="number">TOP 4</span><h3>Power Bank</h3><p>Stay charged through every quest.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="digital-camera.html">
+    <img src="images/digital-camera.png" alt="Digital Camera">
+    <div class="card-body"><span class="number">TOP 5</span><h3>Digital Camera</h3><p>Capture moments in detail.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="tablet.html">
+    <img src="images/tablet.png" alt="Tablet">
+    <div class="card-body"><span class="number">TOP 6</span><h3>Tablet</h3><p>A bigger screen for ideas and play.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="wireless-earbuds.html">
+    <img src="images/wireless-earbuds.png" alt="Wireless Earbuds">
+    <div class="card-body"><span class="number">TOP 7</span><h3>Wireless Earbuds</h3><p>Your soundtrack, untangled.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="smartwatch.html">
+    <img src="images/smartwatch.png" alt="Smartwatch">
+    <div class="card-body"><span class="number">TOP 8</span><h3>Smartwatch</h3><p>Helpful features, right on your wrist.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="laptop.html">
+    <img src="images/laptop.png" alt="Laptop">
+    <div class="card-body"><span class="number">TOP 9</span><h3>Laptop</h3><p>Power for work, study, and gaming.</p><span class="more">Explore gadget →</span></div></a><a class="product-card" href="smartphones.html">
+    <img src="images/smartphones.png" alt="Smartphones">
+    <div class="card-body"><span class="number">TOP 10</span><h3>Smartphones</h3><p>Your world, in your pocket.</p><span class="more">Explore gadget →</span></div></a></section>
+<section class="info-band"><span class="eyebrow">Smart choices start here</span><h2>Find the right tech for your lifestyle.</h2><p>Compare features that matter, from performance and battery life to comfort and compatibility. Our quick guides help you know what to look for before buying.</p><a class="btn" href="contact.html">Get in Touch</a></section>
+</main><footer><div class="container"><div class="footer-grid">
+    <div><h3>RASHTER WEBSITE</h3><p>Explore gaming gear, smart devices, and everyday tech essentials. Find the gadget that matches your next big idea.</p></div>
+    <div class="footer-links"><h3>Explore</h3><a href="index.html">Top 10 Gadgets</a><a href="about.html">About Us</a><a href="careers.html">Careers</a></div>
+    <div class="footer-links"><h3>Support</h3><a href="contact.html">Contact</a><a href="legal.html">Legal Information</a></div>
+    <div class="footer-links"><h3>For Business</h3><a href="business-broadband.html">Business Broadband</a><a href="contact.html">Talk to Us</a></div>
+    </div><div class="copyright">© 2026 RASHTER Website. Student-created sample website. Product information is for general guidance.<div class="creator-note">Created by RASHTER WEBSITE</div></div></div></footer></body>
+</html>

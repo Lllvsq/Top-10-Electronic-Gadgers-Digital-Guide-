@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Legal | RASHTER Website</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body><header><div class="container nav"><a class="brand" href="index.html">RASHTER WEBSITE</a><nav><a class="" href="index.html">Home</a><a class="" href="about.html">About Us</a><a class="" href="contact.html">Contact</a><a class="" href="careers.html">Careers</a><a class="active" href="legal.html">Legal</a><a class="" href="business-broadband.html">Business Broadband</a></nav></div></header><section class="page-intro"><div class="container"><span class="eyebrow">The important details</span><h1>Legal information.</h1><p>Guidelines for using the RASHTER Website demonstration website.</p></div></section>
+<main class="container content"><h2>Website information</h2><p>This website is an educational demonstration. Product descriptions are general informational summaries and should not be treated as manufacturer specifications, warranties, or professional purchasing advice.</p><h2>Product images and trademarks</h2><p>Product images were supplied for this website project. Brand names, logos, and product designs belong to their respective owners. Their appearance does not imply sponsorship or endorsement.</p><h2>Accuracy and availability</h2><p>Features, specifications, prices, and availability may vary by model, region, and retailer. Always confirm details with the official manufacturer or authorized seller before purchasing.</p><h2>Privacy</h2><p>This static HTML and CSS website does not collect or submit personal information. Contact details shown on this sample site are placeholders.</p><h2>External links</h2><p>If external links are added later, visitors should review the privacy and legal policies of those third-party websites.</p></main><footer><div class="container"><div class="footer-grid">
+    <div><h3>RASHTER WEBSITE</h3><p>Explore gaming gear, smart devices, and everyday tech essentials. Find the gadget that matches your next big idea.</p></div>
+    <div class="footer-links"><h3>Explore</h3><a href="index.html">Top 10 Gadgets</a><a href="about.html">About Us</a><a href="careers.html">Careers</a></div>
+    <div class="footer-links"><h3>Support</h3><a href="contact.html">Contact</a><a href="legal.html">Legal Information</a></div>
+    <div class="footer-links"><h3>For Business</h3><a href="business-broadband.html">Business Broadband</a><a href="contact.html">Talk to Us</a></div>
+    </div><div class="copyright">© 2026 RASHTER Website. Student-created sample website. Product information is for general guidance.<div class="creator-note">Created by RASHTER WEBSITE</div></div></div></footer></body>
+</html>
